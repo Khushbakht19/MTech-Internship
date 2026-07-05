@@ -109,4 +109,10 @@ with realistic sample data the first time the application is launched.
 
 ## Author
 
-Student Project – BS Artificial Intelligence, Semester 2.
+## Author
+
+- **Name:** Khushbakht Mehboob
+- **Role:** AI/ML Intern
+- **Organization:** M-Tech Production & Marketing (Haripur, KPK, Pakistan)
+- **Academic Profile:** BS Artificial Intelligence (Semester 2)
+- **Institution:** Pak-Austria Fachhochschule Institute of Applied Sciences and Technology (PAF-IAST)
