@@ -7,10 +7,11 @@ department-wide performance.
 
 ## Project Info
 
-- **Course Project:** BS Artificial Intelligence – Semester 2
-- **Type:** Desktop GUI Application
-- **Domain:** Human Resource Analytics / Applied AI Concepts (rule-based
-  reasoning, scoring algorithms, statistical analysis)
+- **Internship Task:** Week 1 Task
+- **Task Name:** Employee Skills Gap Analyzer
+- **Organization:** M-Tech Production & Marketing
+- **Intern Name:** Khushbakht Mehboob
+- **Student Profile:** BS Artificial Intelligence (Semester 2), PAF-IAST
 
 ## Problem Statement
 
